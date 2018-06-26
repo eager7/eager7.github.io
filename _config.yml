@@ -12,7 +12,7 @@ baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog host
 
 # SNS settings
 RSS: false
-weibo_username:     PCT
+weibo_username:     叽里咕噜PCT
 zhihu_username:     Chandler.Pan
 github_username:    eager7
 #twitter_username:  huxpro
@@ -59,7 +59,7 @@ duoshuo_share: true                     # set to false if you want to use Commen
 
 # Analytics settings
 # Baidu Analytics
-ba_track_id: 4cc1f2d8f3067386cc5cdb626a202900
+ba_track_id: f0396d8157
 # Google Analytics
 ga_track_id: 'UA-49627206-1'            # Format: UA-xxxxxx-xx
 ga_domain: huangxuan.me
