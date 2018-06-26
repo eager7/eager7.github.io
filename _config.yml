@@ -3,7 +3,7 @@ title: PCT Blog
 SEOTitle: PCT的博客 | PCT Blog
 header-img: img/home-bg.jpg
 email: panchangtao@gmail.com
-description: ""
+description: "愿你心怀梦想，被这世界温柔以待；愿你满怀敬畏，看这世界明明白白。"
 keyword: ""
 url: "https://eager7.github.io"              # your host, for absolute URL
 baseurl: "/huxblog-boilerplate"         # for example, '/blog' if your blog hosted on 'host/blog'
@@ -68,8 +68,8 @@ ga_domain: huangxuan.me
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "写写代码，做做设计，看看产品。世界那么大，多玩玩看看。"
-sidebar-avatar: /img/avatar-hux.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
+sidebar-about-description: "If you dream sth, just do it!"
+sidebar-avatar: /img/avatar-pct.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
 
